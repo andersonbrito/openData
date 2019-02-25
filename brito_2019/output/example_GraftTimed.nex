@@ -1,0 +1,64 @@
+#NEXUS
+begin host;
+tree host=(((((Acy:[70],(Gga:[70],Mga:[70]):[62,64]):[56,57],(Cli:[70],((Fal:[70],Psi:[70]):[58,62],Sph:[70]):[57,59]):[56,57]):[52,54],Tho:[70]):[26,36],(((Sai:[70],((Chl:[70],(Mma:[70],Pap:[70]):[67]):[66],(Hsa:[70],Ptr:[70]):[69]):[64,65]):[61,62],Ocu:[70]):[51,53],((Bta:[70],Ssr:[70]):[59,61],(((Cfa:[70],Fca:[70]):[60,62],Eca:[70]):[54,55],Pte:[70]):[53,54]):[53,54]):[50,51]):[2,7],(((((((((((((((((((((host1:[70],host2:[70]):[69],host3:[70]):[67,68],host4:[70]):[65,66],host5:[70]):[55],host6:[70]):[48,49],host7:[70]):[46,47],host8:[70]):[44,45],host9:[70]):[42,43],host10:[70]):[40,41],host11:[70]):[38,39],host12:[70]):[36,37],host13:[70]):[25],host14:[70]):[23,24],host15:[70]):[21,22],host16:[70]):[19,20],host17:[70]):[17,18],host18:[70]):[15,16],host19:[70]):[13,14],host20:[70]):[11,12],host21:[70]):[9,10],host22:[70]):[7,8]):[1];
+endblock;
+
+begin parasite;
+tree parasite=(((((((AnHV1:[70],((CoHV1:[70],FaHV1:[70]):[70],((GaHV2:[70],GaHV3:[70]):[65,67],MeHV1:[70]):[64,66]):[55,58]):[50,54],SpHV2:[70]):[46,50],((((BoHV1:[70],BoHV5:[70]):[69,70],SuHV1:[70]):[55,59],((CaHV1:[70],FeHV1:[70]):[61,64],((((EHV1:[70],EHV9:[70]):[70],EHV8:[70]):[70],EHV4:[70]):[69],EHV3:[70]):[61,64]):[53,57]):[51,55],(CeHV9:[70],HHV3:[70]):[61,66]):[45,50]):[42,46],(SaHV1:[70],((((CeHV1:[70],CeHV16:[70]):[70],((ChHV1:[70],HHV2:[70]):[70],HHV1:[70]):[69]):[63,65],FBaHV1:[70]):[60,62],LHV4:[70]):[56,59]):[53,57]):[40,44],(GaHV1:[70],PsHV1:[70]):[50,55]):[24,30],TeHV3:[70]):[13,20],(((((((((((((((((((((virus1:[70],virus2:[70]):[69],virus3:[70]):[67,68],virus4:[70]):[65,66],virus5:[70]):[55],virus6:[70]):[48,49],virus7:[70]):[46,47],virus8:[70]):[44,45],virus9:[70]):[42,43],virus10:[70]):[40,41],virus11:[70]):[38,39],virus12:[70]):[36,37],virus13:[70]):[25],virus14:[70]):[23,24],virus15:[70]):[21,22],virus16:[70]):[19,20],virus17:[70]):[17,18],virus18:[70]):[15,16],virus19:[70]):[13,14],virus20:[70]):[11,12],virus21:[70]):[9,10],virus22:[70]):[7,8]):[1];
+endblock;
+
+begin distribution;
+Range
+	AnHV1 : Acy,
+	BoHV1 : Bta,
+	BoHV5 : Bta,
+	CaHV1 : Cfa,
+	CeHV1 : Mma,
+	CeHV16 : Pap,
+	CeHV9 : Chl,
+	ChHV1 : Ptr,
+	CoHV1 : Cli,
+	EHV1 : Eca,
+	EHV3 : Eca,
+	EHV4 : Eca,
+	EHV8 : Eca,
+	EHV9 : Eca,
+	FaHV1 : Fal,
+	FBaHV1 : Pte,
+	FeHV1 : Fca,
+	GaHV1 : Gga,
+	GaHV2 : Gga,
+	GaHV3 : Gga,
+	HHV1 : Hsa,
+	HHV2 : Hsa,
+	HHV3 : Hsa,
+	LHV4 : Ocu,
+	MeHV1 : Mga,
+	PsHV1 : Psi,
+	SaHV1 : Sai,
+	SpHV2 : Sph,
+	SuHV1 : Ssr,
+	TeHV3 : Tho,
+	virus1 : host1,
+	virus2 : host2,
+	virus3 : host3,
+	virus4 : host4,
+	virus5 : host5,
+	virus6 : host6,
+	virus7 : host7,
+	virus8 : host8,
+	virus9 : host9,
+	virus10 : host10,
+	virus11 : host11,
+	virus12 : host12,
+	virus13 : host13,
+	virus14 : host14,
+	virus15 : host15,
+	virus16 : host16,
+	virus17 : host17,
+	virus18 : host18,
+	virus19 : host19,
+	virus20 : host20,
+	virus21 : host21,
+	virus22 : host22;
+endblock;
