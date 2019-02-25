@@ -28,9 +28,9 @@ where the `.tree` files are maximum clade credibility beast trees; `vhPairs.txt`
 
 As a result, `beast2jane.py` will output a nexus file in Jane format (`example_GraftTimed.nex`), and pruned versions of the original trees (in case any viral or host taxa are not included in `vhPairs.txt`).
 
-## Authors
+## Author
 
-* **Anderson Brito** - [GitHub Page](https://github.com/andersonbrito)
+* **Anderson Brito** - [WebPage](https://andersonbrito.github.io/)
 
 ## License
 
