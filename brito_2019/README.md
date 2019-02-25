@@ -26,7 +26,7 @@ python beast2Jane.py /Path/to/input/files/ host_beastMCC.tree virus_beastMCC.tre
 where the `.tree` files are maximum clade credibility beast trees; `vhPairs.txt` is a tab-delimited auxiliary file containing virus-host pairs (see example directory for more information about file format), and `5` is the size of the time zones (in Million years).
 
 
-As a result, `beast2jane.py` will output a nexus file in Jane format (`example_GraftTimed.nex`), and pruned versions of the original trees (in case any viral or host taxa are not included in `vhPairs.txt`).
+As a result, `beast2jane.py` will output a nexus file in Jane format (`example_GraftTimed.nex`), and pruned versions of the original trees (in case any viral or host taxa are not included in `vhPairs.txt`). See "output" directory for more details.
 
 ## Author
 
