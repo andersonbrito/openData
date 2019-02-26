@@ -9,7 +9,7 @@
 #               reading frames (ORFs) longer than 40 amino acids found
 #               in genomes deposited on the NBCI repository.
 #
-# Usage: tORFs.py auxFile
+# Usage: python tORFs.py workingDirectory auxFile
 #
 # Release date: 24/12/2017
 # Last update: 26/02/2019
@@ -27,7 +27,6 @@ except ImportError:
 Entrez.email = "A.N.Other@example.com"  # Always tell NCBI who you are
 
 dir = argv[1]
-auxFile = argv[2]
 auxFile = open(dir + argv[2], "r").readlines()
 
 repDir = dir + 'seqDB/'

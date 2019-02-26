@@ -10,7 +10,7 @@
 #					  while retrieving structural information about such
 #                     domains on Pfam.
 #
-# Usage: CompRepertoire.py 'fullDirectoryPath' 'Hmmer output file'
+# Usage: python hmmer2rep.py 'fullDirectoryPath' 'hmmscanOutput' 'auxFile'
 #
 # Release date: 23/12/2017
 # Last update: 26/02/2019
