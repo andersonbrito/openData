@@ -12,9 +12,10 @@
 # Usage: tORFs.py auxFile
 #
 # Release date: 24/12/2017
-# Last update: 25/02/2019
+# Last update: 26/02/2019
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
+import os
 from sys import *
 from Bio import SeqIO
 from Bio import Entrez
@@ -29,6 +30,9 @@ dir = argv[1]
 auxFile = argv[2]
 auxFile = open(dir + argv[2], "r").readlines()
 
+repDir = dir + 'seqDB/'
+if 'seqDB' not in os.listdir(dir):
+    os.system("mkdir %s" % repDir)
 
 for line in auxFile:
     accNo = line.split("\t")[0].strip()
@@ -39,7 +43,7 @@ for line in auxFile:
         seq = seq_record.seq
 
     c = 0
-    outFile = open(dir + taxa + '-' + accNo + '_peptides.fasta', 'w')
+    outFile = open(dir + 'seqDB/' + taxa + '-' + accNo + '_peptides.fasta', 'w')
     for strand, nuc in [('forward', seq), ('reverse', seq.reverse_complement())]: # forward and reverse DNA strands
         for frame in range(3):
             length = 3 * ((len(seq) - frame) // 3)  # Multiple of three

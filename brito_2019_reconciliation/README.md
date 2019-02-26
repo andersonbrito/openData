@@ -30,7 +30,7 @@ As a result, `beast2jane.py` will output a nexus file in Jane format (`example_G
 
 ## Author
 
-* **Anderson Brito** - [WebPage](https://andersonbrito.github.io/)
+* **Anderson Brito** - [WebPage](https://andersonbrito.github.io/) - andersonfbrito@gmail.com
 
 ## License
 
