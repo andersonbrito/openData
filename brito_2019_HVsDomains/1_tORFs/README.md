@@ -1,18 +1,21 @@
-# The evolution of herpesvirus domain repertoires
+# Fetching translated ORFs
 
-This repository contains data and code used during the analyses resulting in the article entitled *"The evolution of protein domain repertoires: shedding light on the origins of herpesviruses"*.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This code retrieves peptides encoded by genomes deposited on the NBCI repository. No matter if annotated in the genome or not, all open reading frames (ORFs) longer than 40 amino acids are retrieved, regardless of their initial codon.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+For running `tORFs.py`, the following Python 3 package must be installed:
+
+* Phylo (from Biopython)
+
+## Inputs and Outputs
+
+`tORFs.py` is run using a command similar to:
 
 ```
-Give examples
+python tORFs.py /path/to/input/files/ auxFile
 ```
+where the `auxFile` is a tab-delimited auxiliary file with lines containing genome accession numbers (eg. NC_018874) and an accronyms 
 
 ### Installing
 

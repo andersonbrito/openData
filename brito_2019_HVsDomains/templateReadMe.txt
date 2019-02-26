@@ -1,6 +1,6 @@
-# The evolution of herpesvirus domain repertoires
+# Project Title
 
-This repository contains data and code used during the analyses resulting in the article entitled *"The evolution of protein domain repertoires: shedding light on the origins of herpesviruses"*.
+One Paragraph of project description goes here
 
 ## Getting Started
 
