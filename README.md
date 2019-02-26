@@ -1,6 +1,6 @@
 # OpenData
 
-This repository contains data and codes used in analyses of published or submitted papers I'm a co-author.
+This repository contains data and code used in analyses of published or submitted papers I'm a co-author.
 
 
 ## Getting Started
