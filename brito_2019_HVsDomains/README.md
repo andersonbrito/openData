@@ -1,4 +1,4 @@
-# The evolution of herpesvirus domain repertoires
+# The evolution of viral domain repertoires
 
 This repository contains data and code used during the analyses resulting in the article entitled *"The evolution of protein domain repertoires: shedding light on the origins of herpesviruses"*.
 
