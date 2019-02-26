@@ -8,15 +8,37 @@ For running `tORFs.py`, the following Python 3 package must be installed:
 
 * Phylo (from Biopython)
 
-## Inputs and Outputs
+## Running the script
 
-`tORFs.py` is run using a command similar to:
+`tORFs.py` is the first script of the pipeline. It can be executed using a command similar to:
 
 ```
 python tORFs.py /path/to/input/files/ auxFile
 ```
-where the `auxFile` is a tab-delimited auxiliary file with lines containing genome accession numbers (eg. NC_018874) and an accronyms 
 
+where the `auxFile` is a tab-delimited auxiliary file with lines showing genome accession numbers (e.g. NC_018874) and an species accronyms (e.g. AbHV).
+
+Generic file format:
+```
+NC_018874 \t AbHV
+NC_002531 \t AlHV1
+NC_024382 \t AlHV2
+...
+NC_002794 \t TuHV1
+```
+
+After running `tORFs.py`, for each genome in `auxFile` a fasta file containing peptide sequences is generated in the working directory.
+
+## Author
+
+* **Anderson Brito** - [WebPage](https://andersonbrito.github.io/) - andersonfbrito@gmail.com
+
+## License
+
+This project is licensed under the MIT License.
+
+
+<!---
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
@@ -88,4 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
+--->

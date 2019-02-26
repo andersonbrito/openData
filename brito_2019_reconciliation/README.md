@@ -18,7 +18,7 @@ For running `beast2jane.py`, the following Python 3 package must be installed:
 
 ## Running the script
 
-Basic command line:
+Usage:
 
 ```
 python beast2Jane.py /Path/to/input/files/ host_beastMCC.tree virus_beastMCC.tree vhPairs.txt 5
