@@ -1,13 +1,7 @@
-# The evolution of viral domain repertoires
+# Project Title
 
-This repository contains data and code used during the analyses resulting in the article entitled *"The evolution of protein domain repertoires: shedding light on the origins of herpesviruses"*.
+One Paragraph of project description goes here
 
-The analyses performed in that article involved a series of steps, which can be reproduced following a pipeline of Python scripts:
-
-tORFs → hmmer2rep → domMatrix → evolScenario → domDynamics
-
-
-<!---
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -78,17 +72,17 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Anderson Brito** - [WebPage](https://andersonbrito.github.io/) - andersonfbrito@gmail.com
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+<!---
 --->
