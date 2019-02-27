@@ -22,7 +22,8 @@ where `sequences.fasta` is a concatenated file including all the entries generat
 python hmmer2rep.py /path/to/input/files/ 'domtblout.txt' 'auxFile'
 ```
 
-where the `auxFile` is the same tab-delimited auxiliary file used for running `tORFs.py`. `hmmer2rep.py` will filter out unreliable hits in `domtblout.txt`, exporting only those showing E-values ('protein E-values') and c-Evalues ('domain E-values') smaller than or equal to 1e-03.
+where the `auxFile` is the same tab-delimited auxiliary file used for running `tORFs.py`. `hmmer2rep.py` will filter out unreliable hits in `domtblout.txt`, exporting only those showing E-values ('protein E-values') and c-Evalues ('domain E-values') smaller than or equal to 1e-03. See the `examples` directory for more details about input and output files.
+
 
 ## Authors
 
