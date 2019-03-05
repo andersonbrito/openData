@@ -3,7 +3,7 @@
 `tORFs.py` retrieves peptides encoded by genomes deposited on the NBCI repository. No matter if annotated in the genome or not, all open reading frames (ORFs) longer than 40 amino acids are retrieved, regardless of their initial codon.
 
 
-## Running `tORFs.py`
+## Running tORFs.py
 
 ### Prerequisites
 
