@@ -19,6 +19,14 @@ Now, both tree and matrix are associated in the same 'Mesquite Project', allowin
 
 ## Running charEvol.py
 
+### Prerequisites
+
+For running `charEvol.py`, the following Python3 packages must be installed:
+
+* DateTime
+* NetworkX
+
+
 After running `Mesquite`, your working directory may contain all files required for running `charEvol.py` with a command line similar to the one shown below:
 
 ```
