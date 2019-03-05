@@ -4,7 +4,7 @@ This repository contains data and code used during the analyses resulting in the
 
 The analyses performed in that article involved a series of steps, which can be reproduced following a pipeline of Python scripts:
 
-tORFs → hmmer2rep → domMatrix → evolScenario → domDynamics
+tORFs → hmmer2rep → domMatrix → charEvol → domDynamics
 
 
 <!---

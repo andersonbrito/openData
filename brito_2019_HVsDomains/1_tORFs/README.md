@@ -30,7 +30,7 @@ NC_024382 \t AlHV2
 NC_002794 \t TuHV1
 ```
 
-After running `tORFs.py`, for each genome in `auxFile` a fasta file containing peptide sequences is generated in the working directory.
+After running `tORFs.py`, for each genome in `auxFile` a fasta file containing peptide sequences is generated in the working directory. See the `examples` directory for more details about input and output files.
 
 ## Author
 
