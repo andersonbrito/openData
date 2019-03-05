@@ -229,14 +229,20 @@ for edge in lstEdges:
 
 
 # it prints a table with a list of event occurrences for the current run
-if 'itol_annotations' not in os.listdir(dir):
-    os.system("mkdir %s%s" % (dir, 'itol_annotations'))
+if 'reconstructions' not in os.listdir(dir):
+    os.system("mkdir %s%s" % (dir, 'reconstructions'))
 
-subDir = 'itol_annotations/' + uniqueDir + '/'
-if uniqueDir not in os.listdir(dir + 'itol_annotations/'):
+
+subDir = 'reconstructions/' + uniqueDir + '/'
+if uniqueDir not in os.listdir(dir + 'reconstructions/'):
     os.system("mkdir %s%s" % (dir, subDir))
+    os.system("mkdir %s%s" % (subDir, 'raw_data'))
+    os.system("mkdir %s%s" % (subDir, 'iTOL_annotations'))
+    os.system("mv %s %s" % (dir + treeFile.split(".")[0] + "_itol.tree", subDir + 'iTOL_annotations'))
 
-desFile = open(dir + subDir + 'resultsList_herpes.txt', 'w')
+
+desFile = open(dir + subDir + 'raw_data/' + 'list_eventsPerBranch.txt', 'w')
+desFile.write("branch\ttotal gains\tacquired domains\ttotal losses\tlost domains\ttotal duplications\tduplicated domains\n")
 for edge, events in dicChanges.items():
     newDic = {}
     for type, doms in events.items():
@@ -280,7 +286,6 @@ for edge, events in dicChanges.items():
 
             for d in list(set(doms)):
                 # Using generic IDs as labels
-                dName = ''
                 if d not in newDic.keys():
                     dId = 'd' + (3 - len(str(c))) * '0' + str(c)
                     newDic[d] = dId
@@ -323,35 +328,32 @@ for edge, events in dicChanges.items():
         else:  # to add domains present at the root → n2 branch
             for d in doms:
                 dName = 'dxx' + '\t' + d
-
                 if type == 'gain':
                     recEvents['gain'] += [dName]  # to add to the recurrent events list
-
                 if type == 'loss':
                     recEvents['loss'] += [dName]  # to add to the recurrent events list
-
                 if type == 'dup':
                     recEvents['dup'] += [dName]  # to add to the recurrent events list
 
 
 # outputs a list of recurrent events
-recFile = open(dir + 'itol_annotations/' + uniqueDir + '/' + 'recEvents_herpes.txt', 'w')
+recFile = open(dir + 'reconstructions/' + uniqueDir  + '/raw_data/' + 'reconstructedEvents.txt', 'w')
+newHeaders = {'gain':'DOMAIN GAINS', 'loss':'DOMAIN LOSSES', 'dup':'DOMAIN DUPLICATIONS'}
 for ev, domNames in recEvents.items():
-    recFile.write('\n' + ev + '\n')
+    recFile.write('\n##### ' + newHeaders[ev] + ' #####\n')
     for d in domNames:
         recFile.write(d + '\n')
 
 
 # outputs the legend for the current run
-legFile = open(dir + 'itol_annotations/' + uniqueDir + '/' + 'legend_herpes.txt', 'w')
+legFile = open(dir + 'reconstructions/' + uniqueDir  + '/raw_data/' + 'legend_domains.txt', 'w')
 for pfam, id in newDic.items():
     legFile.write(id + ': ' + pfam + '\n')
 
 
-
-
+# output annotation files for iTOL
 for out, info in dicRes.items():
-    outputFile = open(dir + 'itol_annotations/' + uniqueDir + '/' + out + '_herpes.txt', 'w')
+    outputFile = open(dir + 'reconstructions/' + uniqueDir  + '/iTOL_annotations/' +  out + '.txt', 'w')
     if 'domain' in out:
         outputFile.write('DATASET_SYMBOL\n\nSEPARATOR COMMA\n\nDATASET_LABEL,domain symbols\n\nCOLOR,#ffff00\n\nMAXIMUM_SIZE,3\n\nDATA\n\n')
     else:
@@ -360,4 +362,4 @@ for out, info in dicRes.items():
     for line in info:
         outputFile.write(line + '\n')
 
-print('Results saved at ' + dir + 'itol_annotations/' + uniqueDir + '\n')
+print('Results saved at ' + dir + 'reconstructions/' + uniqueDir + '\n')
