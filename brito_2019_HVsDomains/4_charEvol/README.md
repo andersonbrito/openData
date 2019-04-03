@@ -1,6 +1,6 @@
 # Reconstructing character evolution
 
-This the last step of the pipeline. It uses the output of [Mesquite](https://www.mesquiteproject.org/) to reconstruct character (domain) evolution along a given phylogeny using `charEvol.py`. In the context of domain evolution, character states can be represented as a matrix of protein domain counts per genome, generated in the previous step by `domMatrix.py`. Based on such matrix, `Mesquite` can estimate events of character gain, loss and duplication along the branches of a tree using a Parsimony model. This model reconstructs the ancestral states (number of domains) at the internal nodes of a tree, while trying to minimise the number of changes (events) given the phylogeny and the matrix (domain distribution).
+This is the last step of the pipeline. It uses the output of [Mesquite](https://www.mesquiteproject.org/) to reconstruct character (domain) evolution along a given phylogeny using `charEvol.py`. In the context of domain evolution, character states can be represented as a matrix of protein domain counts per genome, generated in the previous step by `domMatrix.py`. Based on such matrix, `Mesquite` can estimate events of character gain, loss and duplication along the branches of a tree using a Parsimony model. This model reconstructs the ancestral states (number of domains) at the internal nodes of a tree, while trying to minimise the number of changes (events) given the phylogeny and the matrix (domain distribution).
 
 
 ## Running Mesquite
