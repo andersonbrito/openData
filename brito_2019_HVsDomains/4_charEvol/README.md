@@ -19,7 +19,7 @@ Now, both tree and matrix are associated in the same 'Mesquite Project', allowin
 
 ## Running charEvol.py
 
-### Prerequisites
+### Dependencies
 
 For running `charEvol.py`, the following Python3 packages must be installed:
 
