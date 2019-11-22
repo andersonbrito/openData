@@ -1,0 +1,20 @@
+##gff-version 3
+# seqid	source	type	start	end	score	strand	frame	attributes
+NC_018874	-	misc_feature	6484	6789	.	+	.	Name=UL45 [8e-13]; Note=PF05473
+NC_018874	-	misc_feature	133072	133353	.	+	.	Name=ig [3.5e-14]; Note=PF00047
+NC_018874	-	misc_feature	133075	133386	.	+	.	Name=V-set [2.1e-10]; Note=PF07686
+NC_018874	-	misc_feature	133078	133389	.	+	.	Name=V-set_CD47 [1.2e-08]; Note=PF08204
+NC_018874	-	misc_feature	141919	142200	.	+	.	Name=Pkinase_Tyr [6.9e-09]; Note=PF07714
+NC_018874	-	misc_feature	37127	37549	.	+	.	Name=UL45 [8e-11]; Note=PF05473
+NC_018874	-	misc_feature	210326	210703	.	+	.	Name=dUTPase [2.6e-33]; Note=PF00692
+NC_018874	-	misc_feature	131451	131735	.	+	.	Name=V-set [3.8e-12]; Note=PF07686
+NC_018874	-	misc_feature	131463	131714	.	+	.	Name=ig [2.5e-08]; Note=PF00047
+NC_018874	-	misc_feature	132279	132569	.	+	.	Name=V-set [2.4e-13]; Note=PF07686
+NC_018874	-	misc_feature	137904	138575	.	+	.	Name=Pkinase [2e-26]; Note=PF00069
+NC_018874	-	misc_feature	138048	138557	.	+	.	Name=Pkinase_Tyr [7.3e-12]; Note=PF07714
+NC_018874	-	misc_feature	193428	193970	.	+	.	Name=AAA_30 [2.2e-11]; Note=PF13604
+NC_018874	-	misc_feature	193434	193955	.	+	.	Name=AAA_22 [1.5e-10]; Note=PF13401
+NC_018874	-	misc_feature	88252	88611	.	-	.	Name=DNA_pack_C [1.3e-12]; Note=PF02499
+NC_018874	-	misc_feature	162801	164084	.	-	.	Name=DNA_methylase [6.2e-55]; Note=PF00145
+NC_018874	-	misc_feature	146466	147488	.	-	.	Name=DNA_pol_B [6.7e-26]; Note=PF00136
+NC_018874	-	misc_feature	119760	119882	.	-	.	Name=TNFR_c6 [1.4e-14]; Note=PF00020

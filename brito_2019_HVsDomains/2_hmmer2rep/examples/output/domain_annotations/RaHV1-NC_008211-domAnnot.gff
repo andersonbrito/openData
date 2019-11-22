@@ -1,0 +1,18 @@
+##gff-version 3
+# seqid	source	type	start	end	score	strand	frame	attributes
+NC_018874	-	misc_feature	176215	176559	.	+	.	Name=US22 [2.2e-24]; Note=PF02393
+NC_018874	-	misc_feature	12329	12580	.	+	.	Name=V-set [4.1e-12]; Note=PF07686
+NC_018874	-	misc_feature	12335	12583	.	+	.	Name=ig [2.5e-11]; Note=PF00047
+NC_018874	-	misc_feature	56567	56686	.	+	.	Name=TNFR_c6 [2.6e-10]; Note=PF00020
+NC_018874	-	misc_feature	64931	65053	.	+	.	Name=TNFR_c6 [7.3e-12]; Note=PF00020
+NC_018874	-	misc_feature	125879	126382	.	+	.	Name=Pkinase [8.9e-27]; Note=PF00069
+NC_018874	-	misc_feature	125879	126373	.	+	.	Name=Pkinase_Tyr [4.5e-14]; Note=PF07714
+NC_018874	-	misc_feature	166511	167242	.	+	.	Name=AAA_30 [4.9e-12]; Note=PF13604
+NC_018874	-	misc_feature	200205	200672	.	-	.	Name=Pkinase [3.8e-11]; Note=PF00069
+NC_018874	-	misc_feature	188094	188264	.	-	.	Name=Prok-RING_4 [1.5e-10]; Note=PF14447
+NC_018874	-	misc_feature	188112	188264	.	-	.	Name=zf-C3HC4 [5e-09]; Note=PF00097
+NC_018874	-	misc_feature	132851	133831	.	-	.	Name=DNA_pol_B [6.8e-22]; Note=PF00136
+NC_018874	-	misc_feature	134498	134788	.	-	.	Name=DNA_pol_B_exo1 [2.9e-10]; Note=PF03104
+NC_018874	-	misc_feature	82064	82423	.	-	.	Name=DNA_pack_C [1.5e-15]; Note=PF02499
+NC_018874	-	misc_feature	154633	155166	.	-	.	Name=DNA_methylase [4.9e-36]; Note=PF00145
+NC_018874	-	misc_feature	153856	154032	.	-	.	Name=DNA_methylase [9.3e-17]; Note=PF00145

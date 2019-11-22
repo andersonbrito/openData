@@ -1,0 +1,32 @@
+##gff-version 3
+# seqid	source	type	start	end	score	strand	frame	attributes
+NC_018874	-	misc_feature	95872	96387	.	+	.	Name=TK [7.8e-54]; Note=PF00265
+NC_018874	-	misc_feature	136348	136893	.	+	.	Name=AAA_30 [3.2e-10]; Note=PF13604
+NC_018874	-	misc_feature	146761	147855	.	+	.	Name=DNA_pol_B [1.1e-27]; Note=PF00136
+NC_018874	-	misc_feature	37172	37846	.	+	.	Name=dNK [7.6e-54]; Note=PF01712
+NC_018874	-	misc_feature	121187	122011	.	+	.	Name=Nucleoside_tran [2.4e-11]; Note=PF01733
+NC_018874	-	misc_feature	193865	194452	.	+	.	Name=Pkinase [4.4e-16]; Note=PF00069
+NC_018874	-	misc_feature	205685	205849	.	+	.	Name=z-alpha [8.5e-11]; Note=PF02295
+NC_018874	-	misc_feature	216650	217027	.	+	.	Name=dUTPase [2.8e-39]; Note=PF00692
+NC_018874	-	misc_feature	42267	43064	.	+	.	Name=Ribonuc_red_sm [2.2e-108]; Note=PF00268
+NC_018874	-	misc_feature	242856	243398	.	+	.	Name=Thymidylate_kin [8.6e-48]; Note=PF02223
+NC_018874	-	misc_feature	258408	258557	.	+	.	Name=zf-C3HC4_3 [7.4e-12]; Note=PF13920
+NC_018874	-	misc_feature	258414	258539	.	+	.	Name=zf-C3HC4_4 [6.7e-11]; Note=PF15227
+NC_018874	-	misc_feature	258414	258533	.	+	.	Name=zf-RING_UBOX [1.9e-10]; Note=PF13445
+NC_018874	-	misc_feature	248491	248619	.	-	.	Name=zf-C3HC4_2 [7.1e-13]; Note=PF13923
+NC_018874	-	misc_feature	248491	248619	.	-	.	Name=zf-C3HC4 [1.5e-12]; Note=PF00097
+NC_018874	-	misc_feature	248545	248619	.	-	.	Name=zf-RING_UBOX [6.9e-12]; Note=PF13445
+NC_018874	-	misc_feature	243778	245382	.	-	.	Name=Ribonuc_red_lgC [2.8e-185]; Note=PF02867
+NC_018874	-	misc_feature	245395	245601	.	-	.	Name=Ribonuc_red_lgN [3.5e-20]; Note=PF00317
+NC_018874	-	misc_feature	245764	246021	.	-	.	Name=ATP-cone [6.8e-18]; Note=PF03477
+NC_018874	-	misc_feature	222181	222258	.	-	.	Name=zf-RING_UBOX [1.2e-09]; Note=PF13445
+NC_018874	-	misc_feature	173497	174201	.	-	.	Name=Trypsin [1.6e-29]; Note=PF00089
+NC_018874	-	misc_feature	54004	54258	.	-	.	Name=PLAC8 [9.6e-16]; Note=PF04749
+NC_018874	-	misc_feature	238737	239333	.	-	.	Name=Poxvirus_B22R_C [6.4e-28]; Note=PF13168
+NC_018874	-	misc_feature	61947	62075	.	-	.	Name=zf-C3HC4_2 [9.3e-12]; Note=PF13923
+NC_018874	-	misc_feature	61947	62072	.	-	.	Name=zf-C3HC4_4 [5.6e-11]; Note=PF15227
+NC_018874	-	misc_feature	61944	62075	.	-	.	Name=zf-RING_2 [8e-10]; Note=PF13639
+NC_018874	-	misc_feature	61947	62072	.	-	.	Name=zf-C3HC4 [2.6e-09]; Note=PF00097
+NC_018874	-	misc_feature	55608	56423	.	-	.	Name=DNA_pack_C [7.9e-20]; Note=PF02499
+NC_018874	-	misc_feature	60236	60496	.	-	.	Name=V-set [4.3e-10]; Note=PF07686
+NC_018874	-	misc_feature	29867	29992	.	-	.	Name=TNFR_c6 [3.9e-12]; Note=PF00020
