@@ -1,6 +1,6 @@
 # Fetching translated ORFs
 
-`tORFs.py` retrieves peptides encoded by genomes deposited on the NBCI repository. No matter if annotated in the genome or not, all open reading frames (ORFs) longer than 40 amino acids are retrieved, regardless of their initial codon.
+`tORFs.py` retrieves peptides encoded by genomes deposited on the NBCI repository. No matter if annotated in the genome or not, all open reading frames (ORFs) longer than 50 amino acids are retrieved, regardless of their initial codon.
 
 
 ## Running tORFs.py
@@ -11,11 +11,11 @@ For running `tORFs.py`, the following Python3 package must be installed:
 
 * Biopython
 
-
+### Execution
 `tORFs.py` is the first script of the pipeline. It can be executed using a command similar to:
 
 ```
-python tORFs.py '/path/to/input/files/' 'auxFile'
+python tORFs.py auxFile
 ```
 
 where the `auxFile` is a tab-delimited auxiliary file with lines showing genome accession numbers (e.g. NC_018874) and an species accronyms (e.g. AbHV). Please see the "input" directory for getting an example input file.
