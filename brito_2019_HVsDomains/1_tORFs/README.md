@@ -5,7 +5,7 @@
 
 ## Running tORFs.py
 
-### Prerequisites
+### Dependencies
 
 For running `tORFs.py`, the following Python3 package must be installed:
 
