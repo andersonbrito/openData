@@ -26,6 +26,7 @@ For running `charEvol.py`, the following Python3 packages must be installed:
 * DateTime
 * NetworkX
 
+### Execution
 
 After running `Mesquite`, your working directory may contain all files required for running `charEvol.py` with a command line similar to the one shown below:
 
