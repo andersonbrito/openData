@@ -4,13 +4,13 @@
 
 ## Running domMatrix.py
 
-### Prerequisites
+### Dependencies
 
 For running `domMatrix.py`, the following Python3 package must be installed:
 
 * BeautifulSoup
 
-
+### Execution
 `domMatrix.py` can be executed using a command line similar to:
 
 ```
