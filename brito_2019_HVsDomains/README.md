@@ -6,6 +6,8 @@ The analyses performed in that article involved a series of steps, which can be 
 
 ```
 tORFs → hmmer2rep → domMatrix → charEvol
+            ↓
+         domAnnot
 ```
 
 Access the directories dedicated to each script (above) for more details about their functioning.
