@@ -21,6 +21,7 @@ For running `hmmer2rep.py`, the following Python3 packages must be installed:
 * Biopython
 * BeautifulSoup
 
+### Execution
 
 `hmmer2rep.py` can be executed using a command similar to:
 
@@ -39,6 +40,8 @@ where the `auxFile` is the same tab-delimited auxiliary file used for running `t
 For running `domAnnot.py`, the following Python3 packages must be installed:
 
 * Biopython
+
+### Execution
 
 `domAnnot.py` can be executed using a command similar to:
 
