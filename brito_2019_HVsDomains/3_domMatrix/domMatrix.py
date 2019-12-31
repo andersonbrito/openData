@@ -19,9 +19,6 @@ from sys import *
 import urllib.request as urllib2
 from bs4 import BeautifulSoup as BS
 
-# dir = "/Users/anderson/Documents/github/openData/brito_2019_HVsDomains/3_domMatrix/input/"
-# filenames = [inFile for inFile in os.listdir(dir + 'repertoire/') if inFile.endswith('domRepertoire.txt') and not inFile.startswith('.')]
-
 dir = argv[1]
 filenames = [inFile for inFile in os.listdir(dir + 'repertoire/') if inFile.endswith('domRepertoire.txt') and not inFile.startswith('.')]
 
