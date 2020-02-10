@@ -11,3 +11,8 @@ tORFs → hmmer2rep → domMatrix → charEvol
 ```
 
 Access the directories dedicated to each script (above) for more details about their functioning.
+
+
+## Author
+
+* **Anderson Brito** - [WebPage](https://andersonbrito.github.io/) - andersonfbrito@gmail.com
