@@ -1,6 +1,6 @@
 # The evolution of viral domain repertoires
 
-This repository contains data and code used during the analyses resulting in the (submitted) article: Brito, Anderson F., and John W. Pinney. "The evolution of protein domain repertoires: shedding light on the origins of herpesviruses." bioRxiv (2018): 423525 (https://www.biorxiv.org/content/10.1101/423525v1).
+This repository contains data and code used during the analyses resulting in the article: [Brito, A.F. and Pinney, J.W., 2020. The evolution of protein domain repertoires: Shedding light on the origins of the Herpesviridae family. Virus Evolution, 6(1), p.veaa001.](https://academic.oup.com/ve/article/6/1/veaa001/5726995).
 
 The analyses performed in that article involved a series of steps, which can be reproduced following a pipeline of Python scripts:
 
