@@ -1,18 +1,18 @@
 ##gff-version 3
 # seqid	source	type	start	end	score	strand	frame	attributes
-NC_018874	-	misc_feature	8839	9414	.	+	.	Name=dNK [1.1e-58]; Note=PF01712
-NC_018874	-	misc_feature	75800	76462	.	+	.	Name=DNA_pol_B [2e-23]; Note=PF00136
-NC_018874	-	misc_feature	33426	34136	.	+	.	Name=AAA_30 [8e-12]; Note=PF13604
-NC_018874	-	misc_feature	60333	60530	.	+	.	Name=P_proprotein [1.7e-12]; Note=PF01483
-NC_018874	-	misc_feature	83817	84338	.	+	.	Name=DNA_primase_S [2.3e-23]; Note=PF01896
-NC_018874	-	misc_feature	84540	84695	.	+	.	Name=Herpes_UL52 [7.1e-11]; Note=PF03121
-NC_018874	-	misc_feature	124509	125084	.	+	.	Name=dNK [1.1e-58]; Note=PF01712
-NC_018874	-	misc_feature	61684	62055	.	-	.	Name=dUTPase [6.5e-42]; Note=PF00692
-NC_018874	-	misc_feature	106299	107162	.	-	.	Name=Pkinase [3.1e-36]; Note=PF00069
-NC_018874	-	misc_feature	106527	107162	.	-	.	Name=Pkinase_Tyr [3.1e-19]; Note=PF07714
-NC_018874	-	misc_feature	17364	17885	.	-	.	Name=Pkinase [9.9e-15]; Note=PF00069
-NC_018874	-	misc_feature	133034	133558	.	-	.	Name=Pkinase [7.7e-15]; Note=PF00069
-NC_018874	-	misc_feature	108968	109708	.	-	.	Name=Pkinase [1.3e-14]; Note=PF00069
-NC_018874	-	misc_feature	109205	109714	.	-	.	Name=Pkinase_Tyr [7.3e-12]; Note=PF07714
-NC_018874	-	misc_feature	20222	20725	.	-	.	Name=Pkinase [1.7e-12]; Note=PF00069
-NC_018874	-	misc_feature	19097	19501	.	-	.	Name=Pkinase [7.9e-13]; Note=PF00069
+NC_018874	-	misc_feature	8839	9414	.	+	.	Name=dNK [1.1e-58]; note=PF01712
+NC_018874	-	misc_feature	75800	76462	.	+	.	Name=DNA_pol_B [2e-23]; note=PF00136
+NC_018874	-	misc_feature	33426	34136	.	+	.	Name=AAA_30 [8e-12]; note=PF13604
+NC_018874	-	misc_feature	60333	60530	.	+	.	Name=P_proprotein [1.7e-12]; note=PF01483
+NC_018874	-	misc_feature	83817	84338	.	+	.	Name=DNA_primase_S [2.3e-23]; note=PF01896
+NC_018874	-	misc_feature	84540	84695	.	+	.	Name=Herpes_UL52 [7.1e-11]; note=PF03121
+NC_018874	-	misc_feature	124509	125084	.	+	.	Name=dNK [1.1e-58]; note=PF01712
+NC_018874	-	misc_feature	61684	62055	.	-	.	Name=dUTPase [6.5e-42]; note=PF00692
+NC_018874	-	misc_feature	106299	107162	.	-	.	Name=Pkinase [3.1e-36]; note=PF00069
+NC_018874	-	misc_feature	106527	107162	.	-	.	Name=Pkinase_Tyr [3.1e-19]; note=PF07714
+NC_018874	-	misc_feature	17364	17885	.	-	.	Name=Pkinase [9.9e-15]; note=PF00069
+NC_018874	-	misc_feature	133034	133558	.	-	.	Name=Pkinase [7.7e-15]; note=PF00069
+NC_018874	-	misc_feature	108968	109708	.	-	.	Name=Pkinase [1.3e-14]; note=PF00069
+NC_018874	-	misc_feature	109205	109714	.	-	.	Name=Pkinase_Tyr [7.3e-12]; note=PF07714
+NC_018874	-	misc_feature	20222	20725	.	-	.	Name=Pkinase [1.7e-12]; note=PF00069
+NC_018874	-	misc_feature	19097	19501	.	-	.	Name=Pkinase [7.9e-13]; note=PF00069
