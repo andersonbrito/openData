@@ -26,10 +26,9 @@ For running `hmmer2rep.py`, the following Python3 packages must be installed:
 `hmmer2rep.py` can be executed using a command similar to:
 
 ```
-python hmmer2rep.py /path/to/input/files/ 'domtblout.txt' 'auxFile'
+python hmmer2rep.py -input domtblout.txt -list accnos.txt -output dom_repertoire.tsv
 ```
-
-where the `auxFile` is the same tab-delimited auxiliary file used for running `tORFs.py`. `hmmer2rep.py` will filter out unreliable hits in `domtblout.txt`, exporting only those showing E-values ('protein E-values') and c-Evalues ('domain E-values') smaller than or equal to 1e-03. See the `examples` directory for more details about input and output files.
+where the `accnos.txt` is the same tab-delimited file with accession numbers and taxa names used for running `tORFs.py`. `hmmer2rep.py` will filter out unreliable hits in `domtblout.txt`, exporting only those showing E-values ('protein E-values') and c-Evalues ('domain E-values') smaller than or equal to 1e-03. See the `examples` directory for more details about input and output files.
 
 ## Running domAnnot.py
 
