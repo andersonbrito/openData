@@ -14,10 +14,10 @@ For running `domMatrix.py`, the following Python3 package must be installed:
 `domMatrix.py` can be executed using a command line similar to:
 
 ```
-python domMatrix.py '/path/to/input/files/'
+python domMatrix.py -output dom_matrix.tsv
 ```
 
-where the input files correspond to those found in the folder `repertoire`, created while running `hmmer2rep.py`. Such folder must be placed in the working directory given as input above (`/path/to/input/files/`). See the `examples` directory for more details about input and output files.
+where the input files correspond to those in the folder `repertoire`, created while running `hmmer2rep.py`. Such folder must be placed in the working directory as the script above. As a result, `domMatrix.py` will generate as output a matrix of domain counts per taxa. See the `examples` directory for more details about input and output files.
 
 
 ## Authors

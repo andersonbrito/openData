@@ -1,3 +1,4 @@
+
 #!/usr/bin/python
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -18,75 +19,85 @@ import os
 from sys import *
 import urllib.request as urllib2
 from bs4 import BeautifulSoup as BS
+import argparse
 
-dir = argv[1]
-filenames = [inFile for inFile in os.listdir(dir + 'repertoire/') if inFile.endswith('domRepertoire.txt') and not inFile.startswith('.')]
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(
+        description="This script generates as output a matrix of domain counts per taxa.",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+    )
+    parser.add_argument("-output", required=True, help="TSV with domain counts per taxa")
+    args = parser.parse_args()
 
-# retrieve the domain name given a pfam code
-dicNames = {}
-def getDomName(pfamCode):
-    if pfamCode in dicNames.keys():
-        return pfamCode + ' (' + dicNames[pfamCode].split('\t')[0] + ')'
-    else:
-        webPage = urllib2.urlopen("http://pfam.xfam.org/family/" + pfamCode.strip())
-        webPageData = webPage.read()
-        soup = BS(webPageData, "html.parser")
-        idDataTable = soup.find('div', id='contentContainer')
-        id = idDataTable.find('div', id='tabTitle').text.split(':')[1].strip().split()[0]
-        summary = soup.find('div', class_='handle').text.split(':')[1].strip()
+    output = args.output
 
-        dicNames[pfamCode] = '\t'.join((id, summary))
-        result = pfamCode + '\t' + dicNames[pfamCode]
-        print(result)
-        return pfamCode + ' (' + id + ')'
+    filenames = [inFile for inFile in os.listdir('repertoire/') if inFile.endswith('domRepertoire.txt') and not inFile.startswith('.')]
 
-
-# creates a list with all domains
-lDom = []
-for inFile in filenames:
-    print("\n >>> Processing domains found in " + inFile)
-    doms = open(dir + 'repertoire/' + inFile, "r").readlines()[1:]
-    for line in doms:
-        if 'END' in line:
-            continue
-        pr, do, st, ev = line.split('\t')
-        if do == 'Unknown':
-            continue
-        if do in dicNames.keys():
-            result = do + '\t' + dicNames[do]
-            print(result)
-            entry = do + ' (' + dicNames[do].split('\t')[0] + ')'
-            if entry not in lDom:
-                lDom.append(entry)
+    # retrieve the domain name given a pfam code
+    dicNames = {}
+    def getDomName(pfamCode):
+        if pfamCode in dicNames.keys():
+            return pfamCode + ' (' + dicNames[pfamCode].split('\t')[0] + ')'
         else:
-            lDom.append(getDomName(do))
+            webPage = urllib2.urlopen("http://pfam.xfam.org/family/" + pfamCode.strip())
+            webPageData = webPage.read()
+            soup = BS(webPageData, "html.parser")
+            idDataTable = soup.find('div', id='contentContainer')
+            id = idDataTable.find('div', id='tabTitle').text.split(':')[1].strip().split()[0]
+            summary = soup.find('div', class_='handle').text.split(':')[1].strip()
 
-# count occurrences of domains
-allSppDomDic = {}
-for inFile in filenames:
-    sppName = inFile.split('-')[0]
-    dicDom = {}
-    for dom in lDom:
-        dicDom[dom] = 0
-    rep = open(dir + 'repertoire/' + inFile, "r").readlines()[1:]
-    for line in rep:
-        if 'END' in line:
-            continue
-        prot, pfam, pdb, evalue = line.split('\t')
-        infoDom = pfam + ' (' + dicNames[pfam].split('\t')[0] + ')'
-        #
-        if pfam == 'Unknown':
-            continue
-        dicDom[infoDom] += 1
-    allSppDomDic[sppName] = dicDom
+            dicNames[pfamCode] = '\t'.join((id, summary))
+            result = pfamCode + '\t' + dicNames[pfamCode]
+            print(result)
+            return pfamCode + ' (' + id + ')'
 
-# creates a matrix of occurrences of domains per genome
-matFile = open(dir + "output_domMatrix.txt", "w")
-matFile.write('\t' + '\t'.join(sorted(lDom)) + '\n')
-for spp, domains in sorted(allSppDomDic.items()):
-    spp = spp.split('_')[0]
-    count = [str(domains[x]) for x in sorted(domains.keys())]
-    matFile.write(spp + '\t' + '\t'.join(count) + '\n')
 
-print("\nDone! Domain matrix saved at " + dir)
-matFile.close()
+    # creates a list with all domains
+    lDom = []
+    for inFile in filenames:
+        print("\n >>> Processing domains found in " + inFile)
+        doms = open('repertoire/' + inFile, "r").readlines()[1:]
+        for line in doms:
+            if 'END' in line:
+                continue
+            pr, do, st, ev = line.split('\t')
+            if do == 'Unknown':
+                continue
+            if do in dicNames.keys():
+                result = do + '\t' + dicNames[do]
+                print(result)
+                entry = do + ' (' + dicNames[do].split('\t')[0] + ')'
+                if entry not in lDom:
+                    lDom.append(entry)
+            else:
+                lDom.append(getDomName(do))
+
+    # count occurrences of domains
+    allSppDomDic = {}
+    for inFile in filenames:
+        sppName = inFile.split('-')[0]
+        dicDom = {}
+        for dom in lDom:
+            dicDom[dom] = 0
+        rep = open('repertoire/' + inFile, "r").readlines()[1:]
+        for line in rep:
+            if 'END' in line:
+                continue
+            prot, pfam, pdb, evalue = line.split('\t')
+            infoDom = pfam + ' (' + dicNames[pfam].split('\t')[0] + ')'
+            #
+            if pfam == 'Unknown':
+                continue
+            dicDom[infoDom] += 1
+        allSppDomDic[sppName] = dicDom
+
+    # creates a matrix of occurrences of domains per genome
+    matFile = open(output, "w")
+    matFile.write('\t' + '\t'.join(sorted(lDom)) + '\n')
+    for spp, domains in sorted(allSppDomDic.items()):
+        spp = spp.split('_')[0]
+        count = [str(domains[x]) for x in sorted(domains.keys())]
+        matFile.write(spp + '\t' + '\t'.join(count) + '\n')
+
+    print("\nDone! Domain matrix successfully saved.")
+    matFile.close()
