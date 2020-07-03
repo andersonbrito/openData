@@ -1,0 +1,27 @@
+DATASET_TEXT
+
+SEPARATOR COMMA
+
+DATASET_LABEL,label11
+
+COLOR,#ffff00
+
+LABEL_ROTATION,-45
+
+SIZE_FACTOR,1
+
+DATA
+
+n3,d011,0.68,#000000,normal,1
+n86,d026,0.73,#000000,normal,1
+n4,d040,0.52,#54A800,normal,1
+n44,d083,0.54,#54A800,normal,1
+n38,d094*,0.68,#7849A8,normal,1
+DeHV1,d111,0.84,#7849A8,normal,1
+n25,d038,0.78,#000000,normal,1
+MyHV8,d107*,0.91,#7849A8,normal,1
+n51,d129,0.61,#000000,normal,1
+n59,d167,0.61,#54A800,normal,1
+HHV5,d075*,0.68,#7849A8,normal,1
+n88,d210,0.78,#7849A8,normal,1
+MaHV1,d064,0.91,#7849A8,normal,1
