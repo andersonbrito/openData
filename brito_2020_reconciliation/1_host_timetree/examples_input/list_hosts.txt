@@ -1,0 +1,67 @@
+Amazona oratrix
+Anas
+Aotus trivirgatus
+Apodemus
+Ateles
+Bos taurus
+Bubalus bubalis
+Callithrix jacchus
+Canis lupus
+Cavia porcellus
+Chlorocebus aethiops
+Cervus
+Chelonia mydas
+Colobus guereza
+Columba livia
+Connochaetes taurinus
+Damaliscus lunatus
+Delphinapterus leucas
+Elephas maximus
+Eptesicus fuscus
+Equus caballus
+Erythrocebus patas
+Falco mexicanus
+Felis catus
+Gallus gallus
+Gorilla gorilla
+Homo sapiens
+Loxodonta africana
+Macaca arctoides
+Macaca fascicularis
+Macaca fuscata
+Macaca mulatta
+Macaca nemestrina
+Macropus
+Mandrillus leucophaeus
+Mandrillus sphinx
+Meleagris gallopavo
+Meles meles
+Miniopterus fuliginosus
+Miniopterus schreibersii
+Mus musculus
+Myodes glareolus
+Myotis ricketti
+Myotis velifer
+Oligoryzomys microtis
+Oryctolagus cuniculus
+Ovis aries
+Phoca groenlandica
+Pan troglodytes
+Papio
+Phascolarctos cinereus
+Pongo pygmaeus
+Psittacula krameri
+Pteropus
+Rangifer tarandus
+Rattus norvegicus
+Rattus rattus
+Rhinolophus ferrumequinum
+Saimiri
+Spheniscus
+Sus
+Testudo hermanni
+Tupaia
+Tursiops truncatus
+Tylonycteris robustula
+Vombatus ursinus
+Zalophus californianus

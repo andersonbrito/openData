@@ -1,0 +1,1358 @@
+Best Timing:
+Time: 0 Node: Dummy Root
+Time: 1 Node: 122 Name: 122`
+Time: 2 Node: 58 Name: 58`
+Time: 3 Node: 121 Name: 121`
+Time: 4 Node: 119 Name: 119`
+Time: 5 Node: 117 Name: 117`
+Time: 6 Node: 115 Name: 115`
+Time: 7 Node: 113 Name: 113`
+Time: 8 Node: 18 Name: 18`
+Time: 9 Node: 111 Name: 111`
+Time: 10 Node: 109 Name: 109`
+Time: 11 Node: 107 Name: 107`
+Time: 12 Node: 105 Name: 105`
+Time: 13 Node: 103 Name: 103`
+Time: 14 Node: 101 Name: 101`
+Time: 15 Node: 99 Name: 99`
+Time: 16 Node: 97 Name: 97`
+Time: 17 Node: 95 Name: 95`
+Time: 18 Node: 93 Name: 93`
+Time: 19 Node: 57 Name: 57`
+Time: 20 Node: 91 Name: 91`
+Time: 21 Node: 89 Name: 89`
+Time: 22 Node: 87 Name: 87`
+Time: 23 Node: 85 Name: 85`
+Time: 24 Node: 83 Name: 83`
+Time: 25 Node: 2 Name: 2`
+Time: 26 Node: 81 Name: 81`
+Time: 27 Node: 79 Name: 79`
+Time: 28 Node: 17 Name: 17`
+Time: 29 Node: 56 Name: 56`
+Time: 30 Node: 55 Name: 55`
+Time: 31 Node: 77 Name: 77`
+Time: 32 Node: 16 Name: 16`
+Time: 33 Node: 15 Name: 15`
+Time: 34 Node: 14 Name: 14`
+Time: 35 Node: 7 Name: 7`
+Time: 36 Node: 38 Name: 38`
+Time: 37 Node: 75 Name: 75`
+Time: 38 Node: 37 Name: 37`
+Time: 39 Node: 25 Name: 25`
+Time: 40 Node: 73 Name: 73`
+Time: 41 Node: 71 Name: 71`
+Time: 42 Node: 36 Name: 36`
+Time: 43 Node: 35 Name: 35`
+Time: 44 Node: 24 Name: 24`
+Time: 45 Node: 69 Name: 69`
+Time: 46 Node: 10 Name: 10`
+Time: 47 Node: 54 Name: 54`
+Time: 48 Node: 67 Name: 67`
+Time: 49 Node: 6 Name: 6`
+Time: 50 Node: 53 Name: 53`
+Time: 51 Node: 65 Name: 65`
+Time: 52 Node: 34 Name: 34`
+Time: 53 Node: 42 Name: 42`
+Time: 54 Node: 63 Name: 63`
+Time: 55 Node: 30 Name: 30`
+Time: 56 Node: 61 Name: 61`
+Time: 57 Node: 52 Name: 52`
+Time: 58 Node: 51 Name: 51`
+Time: 59 Node: 33 Name: 33`
+Time: 60 Node: 45 Name: 45`
+Time: 61 Node: 48 Name: 48`
+Time: 62 Node: The
+Time: 62 Node: Cmy
+Time: 62 Node: Ana
+Time: 62 Node: Mga
+Time: 62 Node: Gga
+Time: 62 Node: Pkr
+Time: 62 Node: Aor
+Time: 62 Node: Cli
+Time: 62 Node: Sph
+Time: 62 Node: Fme
+Time: 62 Node: Mac
+Time: 62 Node: Pte
+Time: 62 Node: Eca
+Time: 62 Node: Fca
+Time: 62 Node: Clu
+Time: 62 Node: Sus
+Time: 62 Node: Dle
+Time: 62 Node: Rta
+Time: 62 Node: Cer
+Time: 62 Node: Bbu
+Time: 62 Node: Bta
+Time: 62 Node: Ocu
+Time: 62 Node: Ate
+Time: 62 Node: Sai
+Time: 62 Node: Ptr
+Time: 62 Node: Hsa
+Time: 62 Node: Epa
+Time: 62 Node: Cae
+Time: 62 Node: Pap
+Time: 62 Node: Mmt
+Time: 62 Node: host1
+Time: 62 Node: host2
+Time: 62 Node: host3
+Time: 62 Node: host4
+Time: 62 Node: host5
+Time: 62 Node: host6
+Time: 62 Node: host7
+Time: 62 Node: host8
+Time: 62 Node: host9
+Time: 62 Node: host10
+Time: 62 Node: host11
+Time: 62 Node: host12
+Time: 62 Node: host13
+Time: 62 Node: host14
+Time: 62 Node: host15
+Time: 62 Node: host16
+Time: 62 Node: host17
+Time: 62 Node: host18
+Time: 62 Node: host19
+Time: 62 Node: host20
+Time: 62 Node: host21
+Time: 62 Node: host22
+Time: 62 Node: host23
+Time: 62 Node: host24
+Time: 62 Node: host25
+Time: 62 Node: host26
+Time: 62 Node: host27
+Time: 62 Node: host28
+Time: 62 Node: host29
+Time: 62 Node: host30
+Time: 62 Node: host31
+Time: 62 Node: host32
+Host Tree:
+Number of nodes: 123, Number of tips: 62
+(2) -> 0; Name: The --> (-1) (-1); 
+(2) -> 1; Name: Cmy --> (-1) (-1); 
+(18) -> 2; Name: 2` --> (0) (1); 
+(7) -> 3; Name: Ana --> (-1) (-1); 
+(6) -> 4; Name: Mga --> (-1) (-1); 
+(6) -> 5; Name: Gga --> (-1) (-1); 
+(7) -> 6; Name: 6` --> (4) (5); 
+(17) -> 7; Name: 7` --> (3) (6); 
+(10) -> 8; Name: Pkr --> (-1) (-1); 
+(10) -> 9; Name: Aor --> (-1) (-1); 
+(16) -> 10; Name: 10` --> (8) (9); 
+(15) -> 11; Name: Cli --> (-1) (-1); 
+(14) -> 12; Name: Sph --> (-1) (-1); 
+(14) -> 13; Name: Fme --> (-1) (-1); 
+(15) -> 14; Name: 14` --> (12) (13); 
+(16) -> 15; Name: 15` --> (11) (14); 
+(17) -> 16; Name: 16` --> (10) (15); 
+(18) -> 17; Name: 17` --> (7) (16); 
+(58) -> 18; Name: 18` --> (2) (17); 
+(57) -> 19; Name: Mac --> (-1) (-1); 
+(38) -> 20; Name: Pte --> (-1) (-1); 
+(25) -> 21; Name: Eca --> (-1) (-1); 
+(24) -> 22; Name: Fca --> (-1) (-1); 
+(24) -> 23; Name: Clu --> (-1) (-1); 
+(25) -> 24; Name: 24` --> (22) (23); 
+(37) -> 25; Name: 25` --> (21) (24); 
+(36) -> 26; Name: Sus --> (-1) (-1); 
+(35) -> 27; Name: Dle --> (-1) (-1); 
+(30) -> 28; Name: Rta --> (-1) (-1); 
+(30) -> 29; Name: Cer --> (-1) (-1); 
+(34) -> 30; Name: 30` --> (28) (29); 
+(33) -> 31; Name: Bbu --> (-1) (-1); 
+(33) -> 32; Name: Bta --> (-1) (-1); 
+(34) -> 33; Name: 33` --> (31) (32); 
+(35) -> 34; Name: 34` --> (30) (33); 
+(36) -> 35; Name: 35` --> (27) (34); 
+(37) -> 36; Name: 36` --> (26) (35); 
+(38) -> 37; Name: 37` --> (25) (36); 
+(56) -> 38; Name: 38` --> (20) (37); 
+(55) -> 39; Name: Ocu --> (-1) (-1); 
+(42) -> 40; Name: Ate --> (-1) (-1); 
+(42) -> 41; Name: Sai --> (-1) (-1); 
+(54) -> 42; Name: 42` --> (40) (41); 
+(45) -> 43; Name: Ptr --> (-1) (-1); 
+(45) -> 44; Name: Hsa --> (-1) (-1); 
+(53) -> 45; Name: 45` --> (43) (44); 
+(48) -> 46; Name: Epa --> (-1) (-1); 
+(48) -> 47; Name: Cae --> (-1) (-1); 
+(52) -> 48; Name: 48` --> (46) (47); 
+(51) -> 49; Name: Pap --> (-1) (-1); 
+(51) -> 50; Name: Mmt --> (-1) (-1); 
+(52) -> 51; Name: 51` --> (49) (50); 
+(53) -> 52; Name: 52` --> (48) (51); 
+(54) -> 53; Name: 53` --> (45) (52); 
+(55) -> 54; Name: 54` --> (42) (53); 
+(56) -> 55; Name: 55` --> (39) (54); 
+(57) -> 56; Name: 56` --> (38) (55); 
+(58) -> 57; Name: 57` --> (19) (56); 
+(122) -> 58; Name: 58` --> (18) (57); 
+(61) -> 59; Name: host1 --> (-1) (-1); 
+(61) -> 60; Name: host2 --> (-1) (-1); 
+(63) -> 61; Name: 61` --> (59) (60); 
+(63) -> 62; Name: host3 --> (-1) (-1); 
+(65) -> 63; Name: 63` --> (61) (62); 
+(65) -> 64; Name: host4 --> (-1) (-1); 
+(67) -> 65; Name: 65` --> (63) (64); 
+(67) -> 66; Name: host5 --> (-1) (-1); 
+(69) -> 67; Name: 67` --> (65) (66); 
+(69) -> 68; Name: host6 --> (-1) (-1); 
+(71) -> 69; Name: 69` --> (67) (68); 
+(71) -> 70; Name: host7 --> (-1) (-1); 
+(73) -> 71; Name: 71` --> (69) (70); 
+(73) -> 72; Name: host8 --> (-1) (-1); 
+(75) -> 73; Name: 73` --> (71) (72); 
+(75) -> 74; Name: host9 --> (-1) (-1); 
+(77) -> 75; Name: 75` --> (73) (74); 
+(77) -> 76; Name: host10 --> (-1) (-1); 
+(79) -> 77; Name: 77` --> (75) (76); 
+(79) -> 78; Name: host11 --> (-1) (-1); 
+(81) -> 79; Name: 79` --> (77) (78); 
+(81) -> 80; Name: host12 --> (-1) (-1); 
+(83) -> 81; Name: 81` --> (79) (80); 
+(83) -> 82; Name: host13 --> (-1) (-1); 
+(85) -> 83; Name: 83` --> (81) (82); 
+(85) -> 84; Name: host14 --> (-1) (-1); 
+(87) -> 85; Name: 85` --> (83) (84); 
+(87) -> 86; Name: host15 --> (-1) (-1); 
+(89) -> 87; Name: 87` --> (85) (86); 
+(89) -> 88; Name: host16 --> (-1) (-1); 
+(91) -> 89; Name: 89` --> (87) (88); 
+(91) -> 90; Name: host17 --> (-1) (-1); 
+(93) -> 91; Name: 91` --> (89) (90); 
+(93) -> 92; Name: host18 --> (-1) (-1); 
+(95) -> 93; Name: 93` --> (91) (92); 
+(95) -> 94; Name: host19 --> (-1) (-1); 
+(97) -> 95; Name: 95` --> (93) (94); 
+(97) -> 96; Name: host20 --> (-1) (-1); 
+(99) -> 97; Name: 97` --> (95) (96); 
+(99) -> 98; Name: host21 --> (-1) (-1); 
+(101) -> 99; Name: 99` --> (97) (98); 
+(101) -> 100; Name: host22 --> (-1) (-1); 
+(103) -> 101; Name: 101` --> (99) (100); 
+(103) -> 102; Name: host23 --> (-1) (-1); 
+(105) -> 103; Name: 103` --> (101) (102); 
+(105) -> 104; Name: host24 --> (-1) (-1); 
+(107) -> 105; Name: 105` --> (103) (104); 
+(107) -> 106; Name: host25 --> (-1) (-1); 
+(109) -> 107; Name: 107` --> (105) (106); 
+(109) -> 108; Name: host26 --> (-1) (-1); 
+(111) -> 109; Name: 109` --> (107) (108); 
+(111) -> 110; Name: host27 --> (-1) (-1); 
+(113) -> 111; Name: 111` --> (109) (110); 
+(113) -> 112; Name: host28 --> (-1) (-1); 
+(115) -> 113; Name: 113` --> (111) (112); 
+(115) -> 114; Name: host29 --> (-1) (-1); 
+(117) -> 115; Name: 115` --> (113) (114); 
+(117) -> 116; Name: host30 --> (-1) (-1); 
+(119) -> 117; Name: 117` --> (115) (116); 
+(119) -> 118; Name: host31 --> (-1) (-1); 
+(121) -> 119; Name: 119` --> (117) (118); 
+(121) -> 120; Name: host32 --> (-1) (-1); 
+(122) -> 121; Name: 121` --> (119) (120); 
+(-1) -> 122; Name: 122` --> (58) (121); 
+Parasite Tree:
+Number of nodes: 153, Number of tips: 77
+(4) -> 0; Name: TeHV3 --> (-1) (-1); 
+(3) -> 1; Name: ChHV5 --> (-1) (-1); 
+(3) -> 2; Name: CmydHV --> (-1) (-1); 
+(4) -> 3; Name: 3` --> (1) (2); 
+(88) -> 4; Name: 4` --> (0) (3); 
+(11) -> 5; Name: PsHV5 --> (-1) (-1); 
+(10) -> 6; Name: GaHV1 --> (-1) (-1); 
+(9) -> 7; Name: CaHV2 --> (-1) (-1); 
+(9) -> 8; Name: PsHV1 --> (-1) (-1); 
+(10) -> 9; Name: 9` --> (7) (8); 
+(11) -> 10; Name: 10` --> (6) (9); 
+(87) -> 11; Name: 11` --> (5) (10); 
+(14) -> 12; Name: SaHV1 --> (-1) (-1); 
+(14) -> 13; Name: AtHV1 --> (-1) (-1); 
+(36) -> 14; Name: 14` --> (12) (13); 
+(35) -> 15; Name: LHV4 --> (-1) (-1); 
+(20) -> 16; Name: MaHV1 --> (-1) (-1); 
+(19) -> 17; Name: FBaHV1 --> (-1) (-1); 
+(19) -> 18; Name: PlylHV --> (-1) (-1); 
+(20) -> 19; Name: 19` --> (17) (18); 
+(34) -> 20; Name: 20` --> (16) (19); 
+(25) -> 21; Name: HHV1 --> (-1) (-1); 
+(24) -> 22; Name: ChHV1 --> (-1) (-1); 
+(24) -> 23; Name: HHV2 --> (-1) (-1); 
+(25) -> 24; Name: 24` --> (22) (23); 
+(33) -> 25; Name: 25` --> (21) (24); 
+(32) -> 26; Name: CeHV1 --> (-1) (-1); 
+(31) -> 27; Name: CeHV2 --> (-1) (-1); 
+(30) -> 28; Name: CeHV16 --> (-1) (-1); 
+(30) -> 29; Name: PaHV2 --> (-1) (-1); 
+(31) -> 30; Name: 30` --> (28) (29); 
+(32) -> 31; Name: 31` --> (27) (30); 
+(33) -> 32; Name: 32` --> (26) (31); 
+(34) -> 33; Name: 33` --> (25) (32); 
+(35) -> 34; Name: 34` --> (20) (33); 
+(36) -> 35; Name: 35` --> (15) (34); 
+(86) -> 36; Name: 36` --> (14) (35); 
+(49) -> 37; Name: SpHV1 --> (-1) (-1); 
+(48) -> 38; Name: AnHV1 --> (-1) (-1); 
+(41) -> 39; Name: FaHV1 --> (-1) (-1); 
+(41) -> 40; Name: CoHV1 --> (-1) (-1); 
+(47) -> 41; Name: 41` --> (39) (40); 
+(46) -> 42; Name: MeHV1 --> (-1) (-1); 
+(45) -> 43; Name: GaHV3 --> (-1) (-1); 
+(45) -> 44; Name: GaHV2 --> (-1) (-1); 
+(46) -> 45; Name: 45` --> (43) (44); 
+(47) -> 46; Name: 46` --> (42) (45); 
+(48) -> 47; Name: 47` --> (41) (46); 
+(49) -> 48; Name: 48` --> (38) (47); 
+(85) -> 49; Name: 49` --> (37) (48); 
+(52) -> 50; Name: HHV3 --> (-1) (-1); 
+(52) -> 51; Name: CeHV9 --> (-1) (-1); 
+(84) -> 52; Name: 52` --> (50) (51); 
+(55) -> 53; Name: CaHV1 --> (-1) (-1); 
+(55) -> 54; Name: FeHV1 --> (-1) (-1); 
+(63) -> 55; Name: 55` --> (53) (54); 
+(62) -> 56; Name: EHV3 --> (-1) (-1); 
+(61) -> 57; Name: EHV4 --> (-1) (-1); 
+(60) -> 58; Name: EHV8 --> (-1) (-1); 
+(60) -> 59; Name: EHV1 --> (-1) (-1); 
+(61) -> 60; Name: 60` --> (58) (59); 
+(62) -> 61; Name: 61` --> (57) (60); 
+(63) -> 62; Name: 62` --> (56) (61); 
+(83) -> 63; Name: 63` --> (55) (62); 
+(82) -> 64; Name: SuHV1 --> (-1) (-1); 
+(81) -> 65; Name: DleuHV1 --> (-1) (-1); 
+(80) -> 66; Name: CelaHV2 --> (-1) (-1); 
+(69) -> 67; Name: CelaHV1 --> (-1) (-1); 
+(69) -> 68; Name: CvHV3 --> (-1) (-1); 
+(79) -> 69; Name: 69` --> (67) (68); 
+(72) -> 70; Name: BoHV5 --> (-1) (-1); 
+(72) -> 71; Name: BuHV1 --> (-1) (-1); 
+(78) -> 72; Name: 72` --> (70) (71); 
+(77) -> 73; Name: BoHV1.2 --> (-1) (-1); 
+(76) -> 74; Name: BoHV1.1 --> (-1) (-1); 
+(76) -> 75; Name: BoHV1 --> (-1) (-1); 
+(77) -> 76; Name: 76` --> (74) (75); 
+(78) -> 77; Name: 77` --> (73) (76); 
+(79) -> 78; Name: 78` --> (72) (77); 
+(80) -> 79; Name: 79` --> (69) (78); 
+(81) -> 80; Name: 80` --> (66) (79); 
+(82) -> 81; Name: 81` --> (65) (80); 
+(83) -> 82; Name: 82` --> (64) (81); 
+(84) -> 83; Name: 83` --> (63) (82); 
+(85) -> 84; Name: 84` --> (52) (83); 
+(86) -> 85; Name: 85` --> (49) (84); 
+(87) -> 86; Name: 86` --> (36) (85); 
+(88) -> 87; Name: 87` --> (11) (86); 
+(152) -> 88; Name: 88` --> (4) (87); 
+(91) -> 89; Name: virus1 --> (-1) (-1); 
+(91) -> 90; Name: virus2 --> (-1) (-1); 
+(93) -> 91; Name: 91` --> (89) (90); 
+(93) -> 92; Name: virus3 --> (-1) (-1); 
+(95) -> 93; Name: 93` --> (91) (92); 
+(95) -> 94; Name: virus4 --> (-1) (-1); 
+(97) -> 95; Name: 95` --> (93) (94); 
+(97) -> 96; Name: virus5 --> (-1) (-1); 
+(99) -> 97; Name: 97` --> (95) (96); 
+(99) -> 98; Name: virus6 --> (-1) (-1); 
+(101) -> 99; Name: 99` --> (97) (98); 
+(101) -> 100; Name: virus7 --> (-1) (-1); 
+(103) -> 101; Name: 101` --> (99) (100); 
+(103) -> 102; Name: virus8 --> (-1) (-1); 
+(105) -> 103; Name: 103` --> (101) (102); 
+(105) -> 104; Name: virus9 --> (-1) (-1); 
+(107) -> 105; Name: 105` --> (103) (104); 
+(107) -> 106; Name: virus10 --> (-1) (-1); 
+(109) -> 107; Name: 107` --> (105) (106); 
+(109) -> 108; Name: virus11 --> (-1) (-1); 
+(111) -> 109; Name: 109` --> (107) (108); 
+(111) -> 110; Name: virus12 --> (-1) (-1); 
+(113) -> 111; Name: 111` --> (109) (110); 
+(113) -> 112; Name: virus13 --> (-1) (-1); 
+(115) -> 113; Name: 113` --> (111) (112); 
+(115) -> 114; Name: virus14 --> (-1) (-1); 
+(117) -> 115; Name: 115` --> (113) (114); 
+(117) -> 116; Name: virus15 --> (-1) (-1); 
+(119) -> 117; Name: 117` --> (115) (116); 
+(119) -> 118; Name: virus16 --> (-1) (-1); 
+(121) -> 119; Name: 119` --> (117) (118); 
+(121) -> 120; Name: virus17 --> (-1) (-1); 
+(123) -> 121; Name: 121` --> (119) (120); 
+(123) -> 122; Name: virus18 --> (-1) (-1); 
+(125) -> 123; Name: 123` --> (121) (122); 
+(125) -> 124; Name: virus19 --> (-1) (-1); 
+(127) -> 125; Name: 125` --> (123) (124); 
+(127) -> 126; Name: virus20 --> (-1) (-1); 
+(129) -> 127; Name: 127` --> (125) (126); 
+(129) -> 128; Name: virus21 --> (-1) (-1); 
+(131) -> 129; Name: 129` --> (127) (128); 
+(131) -> 130; Name: virus22 --> (-1) (-1); 
+(133) -> 131; Name: 131` --> (129) (130); 
+(133) -> 132; Name: virus23 --> (-1) (-1); 
+(135) -> 133; Name: 133` --> (131) (132); 
+(135) -> 134; Name: virus24 --> (-1) (-1); 
+(137) -> 135; Name: 135` --> (133) (134); 
+(137) -> 136; Name: virus25 --> (-1) (-1); 
+(139) -> 137; Name: 137` --> (135) (136); 
+(139) -> 138; Name: virus26 --> (-1) (-1); 
+(141) -> 139; Name: 139` --> (137) (138); 
+(141) -> 140; Name: virus27 --> (-1) (-1); 
+(143) -> 141; Name: 141` --> (139) (140); 
+(143) -> 142; Name: virus28 --> (-1) (-1); 
+(145) -> 143; Name: 143` --> (141) (142); 
+(145) -> 144; Name: virus29 --> (-1) (-1); 
+(147) -> 145; Name: 145` --> (143) (144); 
+(147) -> 146; Name: virus30 --> (-1) (-1); 
+(149) -> 147; Name: 147` --> (145) (146); 
+(149) -> 148; Name: virus31 --> (-1) (-1); 
+(151) -> 149; Name: 149` --> (147) (148); 
+(151) -> 150; Name: virus32 --> (-1) (-1); 
+(152) -> 151; Name: 151` --> (149) (150); 
+(-1) -> 152; Name: 152` --> (88) (151); 
+
+Best Solution:
+==================================
+Parasite Node: TeHV3
+Association type: Tip
+Host: The
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: ChHV5
+Association type: Tip
+Host: Cmy
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CmydHV
+Association type: Tip
+Host: Cmy
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 3`
+Association type: Duplication
+Host: (2`, Cmy)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: 4`
+Association type: Cospeciation
+Host: 2`
+Event Time: 25
+Subtree Cost: 2
+--------------------------
+Parasite Node: PsHV5
+Association type: Tip
+Host: Pkr
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: GaHV1
+Association type: Tip
+Host: Gga
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CaHV2
+Association type: Tip
+Host: Aor
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: PsHV1
+Association type: Tip
+Host: Aor
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 9`
+Association type: Duplication
+Host: (10`, Aor)
+Event Time: 54
+Subtree Cost: 2
+--------------------------
+Parasite Node: 10`
+Association type: Host Switch
+Host: (16`, 10`)
+Switch Target: (7`, 6`)
+Event Time: 46
+Subtree Cost: 6
+--------------------------
+Parasite Node: 11`
+Association type: Duplication
+Host: (16`, 10`)
+Event Time: 42
+Subtree Cost: 9
+--------------------------
+Parasite Node: SaHV1
+Association type: Tip
+Host: Sai
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: AtHV1
+Association type: Tip
+Host: Ate
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 14`
+Association type: Host Switch
+Host: (42`, Ate)
+Switch Target: (42`, Sai)
+Event Time: 54
+Subtree Cost: 2
+--------------------------
+Parasite Node: LHV4
+Association type: Tip
+Host: Ocu
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: MaHV1
+Association type: Tip
+Host: Mac
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: FBaHV1
+Association type: Tip
+Host: Pte
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: PlylHV
+Association type: Tip
+Host: Pte
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 19`
+Association type: Duplication
+Host: (38`, Pte)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: 20`
+Association type: Host Switch
+Host: (57`, Mac)
+Switch Target: (38`, Pte)
+Event Time: 54
+Subtree Cost: 4
+--------------------------
+Parasite Node: HHV1
+Association type: Tip
+Host: Hsa
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: ChHV1
+Association type: Tip
+Host: Ptr
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: HHV2
+Association type: Tip
+Host: Hsa
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 24`
+Association type: Host Switch
+Host: (45`, Ptr)
+Switch Target: (45`, Hsa)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: 25`
+Association type: Cospeciation
+Host: 45`
+Event Time: 60
+Subtree Cost: 2
+--------------------------
+Parasite Node: CeHV1
+Association type: Tip
+Host: Mmt
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CeHV2
+Association type: Tip
+Host: Cae
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CeHV16
+Association type: Tip
+Host: Pap
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: PaHV2
+Association type: Tip
+Host: Pap
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 30`
+Association type: Duplication
+Host: (51`, Pap)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: 31`
+Association type: Host Switch
+Host: (48`, Cae)
+Switch Target: (51`, Pap)
+Event Time: 62
+Subtree Cost: 4
+--------------------------
+Parasite Node: 32`
+Association type: Host Switch
+Host: (52`, 48`)
+Switch Target: (51`, Mmt)
+Event Time: 61
+Subtree Cost: 7
+--------------------------
+Parasite Node: 33`
+Association type: Host Switch
+Host: (53`, 45`)
+Switch Target: (53`, 52`)
+Event Time: 54
+Subtree Cost: 12
+--------------------------
+Parasite Node: 34`
+Association type: Host Switch
+Host: (53`, 45`)
+Switch Target: (57`, Mac)
+Event Time: 52
+Subtree Cost: 18
+--------------------------
+Parasite Node: 35`
+Association type: Host Switch
+Host: (54`, 53`)
+Switch Target: (55`, Ocu)
+Event Time: 49
+Subtree Cost: 21
+--------------------------
+Parasite Node: 36`
+Association type: Cospeciation
+Host: 54`
+Event Time: 47
+Subtree Cost: 24
+--------------------------
+Parasite Node: SpHV1
+Association type: Tip
+Host: Sph
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: AnHV1
+Association type: Tip
+Host: Ana
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: FaHV1
+Association type: Tip
+Host: Fme
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CoHV1
+Association type: Tip
+Host: Cli
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 41`
+Association type: Host Switch
+Host: (15`, Cli)
+Switch Target: (14`, Fme)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: MeHV1
+Association type: Tip
+Host: Mga
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: GaHV3
+Association type: Tip
+Host: Gga
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: GaHV2
+Association type: Tip
+Host: Gga
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 45`
+Association type: Duplication
+Host: (6`, Gga)
+Event Time: 59
+Subtree Cost: 2
+--------------------------
+Parasite Node: 46`
+Association type: Host Switch
+Host: (6`, Mga)
+Switch Target: (6`, Gga)
+Event Time: 54
+Subtree Cost: 4
+--------------------------
+Parasite Node: 47`
+Association type: Host Switch
+Host: (7`, 6`)
+Switch Target: (15`, Cli)
+Event Time: 49
+Subtree Cost: 9
+--------------------------
+Parasite Node: 48`
+Association type: Host Switch
+Host: (7`, Ana)
+Switch Target: (7`, 6`)
+Event Time: 46
+Subtree Cost: 11
+--------------------------
+Parasite Node: 49`
+Association type: Host Switch
+Host: (7`, Ana)
+Switch Target: (14`, Sph)
+Event Time: 43
+Subtree Cost: 13
+--------------------------
+Parasite Node: HHV3
+Association type: Tip
+Host: Hsa
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CeHV9
+Association type: Tip
+Host: Epa
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 52`
+Association type: Cospeciation
+Host: 53`
+Event Time: 50
+Subtree Cost: 3
+--------------------------
+Parasite Node: CaHV1
+Association type: Tip
+Host: Clu
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: FeHV1
+Association type: Tip
+Host: Fca
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 55`
+Association type: Host Switch
+Host: (24`, Fca)
+Switch Target: (24`, Clu)
+Event Time: 52
+Subtree Cost: 2
+--------------------------
+Parasite Node: EHV3
+Association type: Tip
+Host: Eca
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: EHV4
+Association type: Tip
+Host: Eca
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: EHV8
+Association type: Tip
+Host: Eca
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: EHV1
+Association type: Tip
+Host: Eca
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 60`
+Association type: Duplication
+Host: (25`, Eca)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: 61`
+Association type: Duplication
+Host: (25`, Eca)
+Event Time: 61
+Subtree Cost: 4
+--------------------------
+Parasite Node: 62`
+Association type: Duplication
+Host: (25`, Eca)
+Event Time: 54
+Subtree Cost: 6
+--------------------------
+Parasite Node: 63`
+Association type: Host Switch
+Host: (25`, Eca)
+Switch Target: (24`, Fca)
+Event Time: 48
+Subtree Cost: 10
+--------------------------
+Parasite Node: SuHV1
+Association type: Tip
+Host: Sus
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: DleuHV1
+Association type: Tip
+Host: Dle
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CelaHV2
+Association type: Tip
+Host: Rta
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CelaHV1
+Association type: Tip
+Host: Cer
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: CvHV3
+Association type: Tip
+Host: Cer
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 69`
+Association type: Duplication
+Host: (30`, Cer)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: BoHV5
+Association type: Tip
+Host: Bta
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: BuHV1
+Association type: Tip
+Host: Bbu
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 72`
+Association type: Host Switch
+Host: (33`, Bbu)
+Switch Target: (33`, Bta)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: BoHV1.2
+Association type: Tip
+Host: Bta
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: BoHV1.1
+Association type: Tip
+Host: Bta
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: BoHV1
+Association type: Tip
+Host: Bta
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 76`
+Association type: Duplication
+Host: (33`, Bta)
+Event Time: 62
+Subtree Cost: 2
+--------------------------
+Parasite Node: 77`
+Association type: Duplication
+Host: (33`, Bta)
+Event Time: 62
+Subtree Cost: 4
+--------------------------
+Parasite Node: 78`
+Association type: Cospeciation
+Host: 33`
+Event Time: 59
+Subtree Cost: 6
+--------------------------
+Parasite Node: 79`
+Association type: Host Switch
+Host: (30`, Cer)
+Switch Target: (34`, 33`)
+Event Time: 59
+Subtree Cost: 10
+--------------------------
+Parasite Node: 80`
+Association type: Cospeciation
+Host: 30`
+Event Time: 55
+Subtree Cost: 10
+--------------------------
+Parasite Node: 81`
+Association type: Host Switch
+Host: (35`, Dle)
+Switch Target: (35`, 34`)
+Event Time: 49
+Subtree Cost: 13
+--------------------------
+Parasite Node: 82`
+Association type: Host Switch
+Host: (36`, Sus)
+Switch Target: (35`, Dle)
+Event Time: 48
+Subtree Cost: 15
+--------------------------
+Parasite Node: 83`
+Association type: Host Switch
+Host: (25`, Eca)
+Switch Target: (36`, Sus)
+Event Time: 45
+Subtree Cost: 27
+--------------------------
+Parasite Node: 84`
+Association type: Host Switch
+Host: (25`, Eca)
+Switch Target: (55`, 54`)
+Event Time: 42
+Subtree Cost: 33
+--------------------------
+Parasite Node: 85`
+Association type: Host Switch
+Host: (7`, Ana)
+Switch Target: (25`, Eca)
+Event Time: 40
+Subtree Cost: 48
+--------------------------
+Parasite Node: 86`
+Association type: Host Switch
+Host: (7`, Ana)
+Switch Target: (55`, 54`)
+Event Time: 39
+Subtree Cost: 74
+--------------------------
+Parasite Node: 87`
+Association type: Cospeciation
+Host: 17`
+Event Time: 28
+Subtree Cost: 85
+--------------------------
+Parasite Node: 88`
+Association type: Host Switch
+Host: (18`, 2`)
+Switch Target: (18`, 17`)
+Event Time: 23
+Subtree Cost: 89
+--------------------------
+Parasite Node: virus1
+Association type: Tip
+Host: host1
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus2
+Association type: Tip
+Host: host2
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 91`
+Association type: Cospeciation
+Host: 61`
+Event Time: 56
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus3
+Association type: Tip
+Host: host3
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 93`
+Association type: Cospeciation
+Host: 63`
+Event Time: 54
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus4
+Association type: Tip
+Host: host4
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 95`
+Association type: Cospeciation
+Host: 65`
+Event Time: 51
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus5
+Association type: Tip
+Host: host5
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 97`
+Association type: Cospeciation
+Host: 67`
+Event Time: 48
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus6
+Association type: Tip
+Host: host6
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 99`
+Association type: Cospeciation
+Host: 69`
+Event Time: 45
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus7
+Association type: Tip
+Host: host7
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 101`
+Association type: Cospeciation
+Host: 71`
+Event Time: 41
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus8
+Association type: Tip
+Host: host8
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 103`
+Association type: Cospeciation
+Host: 73`
+Event Time: 40
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus9
+Association type: Tip
+Host: host9
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 105`
+Association type: Cospeciation
+Host: 75`
+Event Time: 37
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus10
+Association type: Tip
+Host: host10
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 107`
+Association type: Cospeciation
+Host: 77`
+Event Time: 31
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus11
+Association type: Tip
+Host: host11
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 109`
+Association type: Cospeciation
+Host: 79`
+Event Time: 27
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus12
+Association type: Tip
+Host: host12
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 111`
+Association type: Cospeciation
+Host: 81`
+Event Time: 26
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus13
+Association type: Tip
+Host: host13
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 113`
+Association type: Cospeciation
+Host: 83`
+Event Time: 24
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus14
+Association type: Tip
+Host: host14
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 115`
+Association type: Cospeciation
+Host: 85`
+Event Time: 23
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus15
+Association type: Tip
+Host: host15
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 117`
+Association type: Cospeciation
+Host: 87`
+Event Time: 22
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus16
+Association type: Tip
+Host: host16
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 119`
+Association type: Cospeciation
+Host: 89`
+Event Time: 21
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus17
+Association type: Tip
+Host: host17
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 121`
+Association type: Cospeciation
+Host: 91`
+Event Time: 20
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus18
+Association type: Tip
+Host: host18
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 123`
+Association type: Cospeciation
+Host: 93`
+Event Time: 18
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus19
+Association type: Tip
+Host: host19
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 125`
+Association type: Cospeciation
+Host: 95`
+Event Time: 17
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus20
+Association type: Tip
+Host: host20
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 127`
+Association type: Cospeciation
+Host: 97`
+Event Time: 16
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus21
+Association type: Tip
+Host: host21
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 129`
+Association type: Cospeciation
+Host: 99`
+Event Time: 15
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus22
+Association type: Tip
+Host: host22
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 131`
+Association type: Cospeciation
+Host: 101`
+Event Time: 14
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus23
+Association type: Tip
+Host: host23
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 133`
+Association type: Cospeciation
+Host: 103`
+Event Time: 13
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus24
+Association type: Tip
+Host: host24
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 135`
+Association type: Cospeciation
+Host: 105`
+Event Time: 12
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus25
+Association type: Tip
+Host: host25
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 137`
+Association type: Cospeciation
+Host: 107`
+Event Time: 11
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus26
+Association type: Tip
+Host: host26
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 139`
+Association type: Cospeciation
+Host: 109`
+Event Time: 10
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus27
+Association type: Tip
+Host: host27
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 141`
+Association type: Cospeciation
+Host: 111`
+Event Time: 9
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus28
+Association type: Tip
+Host: host28
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 143`
+Association type: Cospeciation
+Host: 113`
+Event Time: 7
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus29
+Association type: Tip
+Host: host29
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 145`
+Association type: Cospeciation
+Host: 115`
+Event Time: 6
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus30
+Association type: Tip
+Host: host30
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 147`
+Association type: Cospeciation
+Host: 117`
+Event Time: 5
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus31
+Association type: Tip
+Host: host31
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 149`
+Association type: Cospeciation
+Host: 119`
+Event Time: 4
+Subtree Cost: 0
+--------------------------
+Parasite Node: virus32
+Association type: Tip
+Host: host32
+Event Time: 62
+Subtree Cost: 0
+--------------------------
+Parasite Node: 151`
+Association type: Cospeciation
+Host: 121`
+Event Time: 3
+Subtree Cost: 0
+--------------------------
+Parasite Node: 152`
+Association type: Cospeciation
+Host: 122`
+Event Time: 1
+Subtree Cost: 91
+Cost Before Parasite Root: 0
+--------------------------
+Cospeciation: 39
+Duplication: 12
+Host Switch: 25
+Loss: 17
+Failure to Diverge: 0
+

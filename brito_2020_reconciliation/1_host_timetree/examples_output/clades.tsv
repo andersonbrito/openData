@@ -1,0 +1,67 @@
+number	taxa	all_members
+1	67	Amazona_oratrix, Anas_acuta, Aotus_trivirgatus, Apodemus_gurkha, Ateles_paniscus, Bos_taurus, Bubalus_bubalis, Callithrix_jacchus, Canis_lupus, Cavia_porcellus, Cervus_elaphus, Chelonia_mydas, Chlorocebus_aethiops, Colobus_guereza, Columba_livia, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Elephas_maximus, Eptesicus_fuscus, Equus_caballus, Erythrocebus_patas, Falco_mexicanus, Felis_catus, Gallus_gallus, Gorilla_gorilla, Homo_sapiens, Loxodonta_africana, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Macropus_parma, Mandrillus_leucophaeus, Mandrillus_sphinx, Meleagris_gallopavo, Meles_meles, Miniopterus_fuliginosus, Miniopterus_schreibersii, Mus_musculus, Myodes_glareolus, Myotis_ricketti, Myotis_velifer, Oligoryzomys_microtis, Oryctolagus_cuniculus, Ovis_aries, Pan_troglodytes, Papio_cynocephalus, Phascolarctos_cinereus, Phoca_groenlandica, Pongo_pygmaeus, Psittacula_krameri, Pteropus_capistratus, Rangifer_tarandus, Rattus_norvegicus, Rattus_rattus, Rhinolophus_ferrumequinum, Saimiri_boliviensis, Spheniscus_demersus, Sus_bucculentus, Testudo_hermanni, Tupaia_splendidula, Tursiops_truncatus, Tylonycteris_robustula, Vombatus_ursinus, Zalophus_californianus
+2	10	Amazona_oratrix, Anas_acuta, Chelonia_mydas, Columba_livia, Falco_mexicanus, Gallus_gallus, Meleagris_gallopavo, Psittacula_krameri, Spheniscus_demersus, Testudo_hermanni
+3	8	Amazona_oratrix, Anas_acuta, Columba_livia, Falco_mexicanus, Gallus_gallus, Meleagris_gallopavo, Psittacula_krameri, Spheniscus_demersus
+4	3	Anas_acuta, Gallus_gallus, Meleagris_gallopavo
+5	2	Gallus_gallus, Meleagris_gallopavo
+6	5	Amazona_oratrix, Columba_livia, Falco_mexicanus, Psittacula_krameri, Spheniscus_demersus
+7	2	Amazona_oratrix, Psittacula_krameri
+8	3	Columba_livia, Falco_mexicanus, Spheniscus_demersus
+9	2	Falco_mexicanus, Spheniscus_demersus
+10	2	Chelonia_mydas, Testudo_hermanni
+11	57	Aotus_trivirgatus, Apodemus_gurkha, Ateles_paniscus, Bos_taurus, Bubalus_bubalis, Callithrix_jacchus, Canis_lupus, Cavia_porcellus, Cervus_elaphus, Chlorocebus_aethiops, Colobus_guereza, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Elephas_maximus, Eptesicus_fuscus, Equus_caballus, Erythrocebus_patas, Felis_catus, Gorilla_gorilla, Homo_sapiens, Loxodonta_africana, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Macropus_parma, Mandrillus_leucophaeus, Mandrillus_sphinx, Meles_meles, Miniopterus_fuliginosus, Miniopterus_schreibersii, Mus_musculus, Myodes_glareolus, Myotis_ricketti, Myotis_velifer, Oligoryzomys_microtis, Oryctolagus_cuniculus, Ovis_aries, Pan_troglodytes, Papio_cynocephalus, Phascolarctos_cinereus, Phoca_groenlandica, Pongo_pygmaeus, Pteropus_capistratus, Rangifer_tarandus, Rattus_norvegicus, Rattus_rattus, Rhinolophus_ferrumequinum, Saimiri_boliviensis, Sus_bucculentus, Tupaia_splendidula, Tursiops_truncatus, Tylonycteris_robustula, Vombatus_ursinus, Zalophus_californianus
+12	3	Macropus_parma, Phascolarctos_cinereus, Vombatus_ursinus
+13	2	Phascolarctos_cinereus, Vombatus_ursinus
+14	54	Aotus_trivirgatus, Apodemus_gurkha, Ateles_paniscus, Bos_taurus, Bubalus_bubalis, Callithrix_jacchus, Canis_lupus, Cavia_porcellus, Cervus_elaphus, Chlorocebus_aethiops, Colobus_guereza, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Elephas_maximus, Eptesicus_fuscus, Equus_caballus, Erythrocebus_patas, Felis_catus, Gorilla_gorilla, Homo_sapiens, Loxodonta_africana, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Meles_meles, Miniopterus_fuliginosus, Miniopterus_schreibersii, Mus_musculus, Myodes_glareolus, Myotis_ricketti, Myotis_velifer, Oligoryzomys_microtis, Oryctolagus_cuniculus, Ovis_aries, Pan_troglodytes, Papio_cynocephalus, Phoca_groenlandica, Pongo_pygmaeus, Pteropus_capistratus, Rangifer_tarandus, Rattus_norvegicus, Rattus_rattus, Rhinolophus_ferrumequinum, Saimiri_boliviensis, Sus_bucculentus, Tupaia_splendidula, Tursiops_truncatus, Tylonycteris_robustula, Zalophus_californianus
+15	52	Aotus_trivirgatus, Apodemus_gurkha, Ateles_paniscus, Bos_taurus, Bubalus_bubalis, Callithrix_jacchus, Canis_lupus, Cavia_porcellus, Cervus_elaphus, Chlorocebus_aethiops, Colobus_guereza, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Eptesicus_fuscus, Equus_caballus, Erythrocebus_patas, Felis_catus, Gorilla_gorilla, Homo_sapiens, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Meles_meles, Miniopterus_fuliginosus, Miniopterus_schreibersii, Mus_musculus, Myodes_glareolus, Myotis_ricketti, Myotis_velifer, Oligoryzomys_microtis, Oryctolagus_cuniculus, Ovis_aries, Pan_troglodytes, Papio_cynocephalus, Phoca_groenlandica, Pongo_pygmaeus, Pteropus_capistratus, Rangifer_tarandus, Rattus_norvegicus, Rattus_rattus, Rhinolophus_ferrumequinum, Saimiri_boliviensis, Sus_bucculentus, Tupaia_splendidula, Tursiops_truncatus, Tylonycteris_robustula, Zalophus_californianus
+16	24	Bos_taurus, Bubalus_bubalis, Canis_lupus, Cervus_elaphus, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Eptesicus_fuscus, Equus_caballus, Felis_catus, Meles_meles, Miniopterus_fuliginosus, Miniopterus_schreibersii, Myotis_ricketti, Myotis_velifer, Ovis_aries, Phoca_groenlandica, Pteropus_capistratus, Rangifer_tarandus, Rhinolophus_ferrumequinum, Sus_bucculentus, Tursiops_truncatus, Tylonycteris_robustula, Zalophus_californianus
+17	16	Bos_taurus, Bubalus_bubalis, Canis_lupus, Cervus_elaphus, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Equus_caballus, Felis_catus, Meles_meles, Ovis_aries, Phoca_groenlandica, Rangifer_tarandus, Sus_bucculentus, Tursiops_truncatus, Zalophus_californianus
+18	6	Canis_lupus, Equus_caballus, Felis_catus, Meles_meles, Phoca_groenlandica, Zalophus_californianus
+19	5	Canis_lupus, Felis_catus, Meles_meles, Phoca_groenlandica, Zalophus_californianus
+20	4	Canis_lupus, Meles_meles, Phoca_groenlandica, Zalophus_californianus
+21	3	Meles_meles, Phoca_groenlandica, Zalophus_californianus
+22	2	Phoca_groenlandica, Zalophus_californianus
+23	10	Bos_taurus, Bubalus_bubalis, Cervus_elaphus, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Ovis_aries, Rangifer_tarandus, Sus_bucculentus, Tursiops_truncatus
+24	9	Bos_taurus, Bubalus_bubalis, Cervus_elaphus, Connochaetes_taurinus, Damaliscus_lunatus, Delphinapterus_leucas, Ovis_aries, Rangifer_tarandus, Tursiops_truncatus
+25	2	Delphinapterus_leucas, Tursiops_truncatus
+26	7	Bos_taurus, Bubalus_bubalis, Cervus_elaphus, Connochaetes_taurinus, Damaliscus_lunatus, Ovis_aries, Rangifer_tarandus
+27	5	Bos_taurus, Bubalus_bubalis, Connochaetes_taurinus, Damaliscus_lunatus, Ovis_aries
+28	2	Bos_taurus, Bubalus_bubalis
+29	3	Connochaetes_taurinus, Damaliscus_lunatus, Ovis_aries
+30	2	Connochaetes_taurinus, Damaliscus_lunatus
+31	2	Cervus_elaphus, Rangifer_tarandus
+32	8	Eptesicus_fuscus, Miniopterus_fuliginosus, Miniopterus_schreibersii, Myotis_ricketti, Myotis_velifer, Pteropus_capistratus, Rhinolophus_ferrumequinum, Tylonycteris_robustula
+33	2	Pteropus_capistratus, Rhinolophus_ferrumequinum
+34	6	Eptesicus_fuscus, Miniopterus_fuliginosus, Miniopterus_schreibersii, Myotis_ricketti, Myotis_velifer, Tylonycteris_robustula
+35	4	Eptesicus_fuscus, Myotis_ricketti, Myotis_velifer, Tylonycteris_robustula
+36	2	Eptesicus_fuscus, Tylonycteris_robustula
+37	2	Myotis_ricketti, Myotis_velifer
+38	2	Miniopterus_fuliginosus, Miniopterus_schreibersii
+39	28	Aotus_trivirgatus, Apodemus_gurkha, Ateles_paniscus, Callithrix_jacchus, Cavia_porcellus, Chlorocebus_aethiops, Colobus_guereza, Erythrocebus_patas, Gorilla_gorilla, Homo_sapiens, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Mus_musculus, Myodes_glareolus, Oligoryzomys_microtis, Oryctolagus_cuniculus, Pan_troglodytes, Papio_cynocephalus, Pongo_pygmaeus, Rattus_norvegicus, Rattus_rattus, Saimiri_boliviensis, Tupaia_splendidula
+40	8	Apodemus_gurkha, Cavia_porcellus, Mus_musculus, Myodes_glareolus, Oligoryzomys_microtis, Oryctolagus_cuniculus, Rattus_norvegicus, Rattus_rattus
+41	7	Apodemus_gurkha, Cavia_porcellus, Mus_musculus, Myodes_glareolus, Oligoryzomys_microtis, Rattus_norvegicus, Rattus_rattus
+42	6	Apodemus_gurkha, Mus_musculus, Myodes_glareolus, Oligoryzomys_microtis, Rattus_norvegicus, Rattus_rattus
+43	4	Apodemus_gurkha, Mus_musculus, Rattus_norvegicus, Rattus_rattus
+44	2	Rattus_norvegicus, Rattus_rattus
+45	2	Apodemus_gurkha, Mus_musculus
+46	2	Myodes_glareolus, Oligoryzomys_microtis
+47	20	Aotus_trivirgatus, Ateles_paniscus, Callithrix_jacchus, Chlorocebus_aethiops, Colobus_guereza, Erythrocebus_patas, Gorilla_gorilla, Homo_sapiens, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Pan_troglodytes, Papio_cynocephalus, Pongo_pygmaeus, Saimiri_boliviensis, Tupaia_splendidula
+48	19	Aotus_trivirgatus, Ateles_paniscus, Callithrix_jacchus, Chlorocebus_aethiops, Colobus_guereza, Erythrocebus_patas, Gorilla_gorilla, Homo_sapiens, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Pan_troglodytes, Papio_cynocephalus, Pongo_pygmaeus, Saimiri_boliviensis
+49	4	Aotus_trivirgatus, Ateles_paniscus, Callithrix_jacchus, Saimiri_boliviensis
+50	3	Aotus_trivirgatus, Callithrix_jacchus, Saimiri_boliviensis
+51	2	Aotus_trivirgatus, Callithrix_jacchus
+52	15	Chlorocebus_aethiops, Colobus_guereza, Erythrocebus_patas, Gorilla_gorilla, Homo_sapiens, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Pan_troglodytes, Papio_cynocephalus, Pongo_pygmaeus
+53	11	Chlorocebus_aethiops, Colobus_guereza, Erythrocebus_patas, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Papio_cynocephalus
+54	10	Chlorocebus_aethiops, Erythrocebus_patas, Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Papio_cynocephalus
+55	8	Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina, Mandrillus_leucophaeus, Mandrillus_sphinx, Papio_cynocephalus
+56	3	Mandrillus_leucophaeus, Mandrillus_sphinx, Papio_cynocephalus
+57	2	Mandrillus_leucophaeus, Mandrillus_sphinx
+58	5	Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta, Macaca_nemestrina
+59	4	Macaca_arctoides, Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta
+60	3	Macaca_fascicularis, Macaca_fuscata, Macaca_mulatta
+61	2	Macaca_fuscata, Macaca_mulatta
+62	2	Chlorocebus_aethiops, Erythrocebus_patas
+63	4	Gorilla_gorilla, Homo_sapiens, Pan_troglodytes, Pongo_pygmaeus
+64	3	Gorilla_gorilla, Homo_sapiens, Pan_troglodytes
+65	2	Homo_sapiens, Pan_troglodytes
+66	2	Elephas_maximus, Loxodonta_africana
